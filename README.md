@@ -1,6 +1,6 @@
 # **OOP Lab**
 
-This repository contains a series of Object-Oriented Programming (OOP) assignments implemented in C++ as per the lab syllabus prescribed by the Pune University (SPPU). 
+This repository contains a series of Object-Oriented Programming (OOP) assignments implemented in C++ as per the lab syllabus (2019 PAT) prescribed by the Pune University (SPPU). 
 ## Assignments Overview
 
 ### **1. Complex Number Class**
